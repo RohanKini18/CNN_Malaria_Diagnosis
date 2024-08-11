@@ -1,1 +1,1 @@
-# CNN_Malaria_Diagnosis
+# CNN Malaria Diagnosis
